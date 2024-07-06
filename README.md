@@ -42,14 +42,7 @@ To get started with the game, follow these steps:
 - Catch the parachutists before they fall into the water.
 - Try to achieve the highest score possible!
 
-## Contributing
-
-Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact amit.yosefi@gmail.com(mailto:amit.yosefi@gmail.com).
