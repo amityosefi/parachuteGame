@@ -1,6 +1,6 @@
 # Airplane Parachutist Rescue Game
 
-![Game Screenshot](path/to/screenshot.png)
+![Screenshot_1](https://github.com/amityosefi/parachuteGame/assets/63108895/fc4ae802-7553-4e25-9980-95b303936d32)
 
 ## Overview
 
