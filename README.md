@@ -45,4 +45,4 @@ To get started with the game, follow these steps:
 
 ## Contact
 
-For any questions or feedback, please contact amit.yosefi@gmail.com(mailto:amit.yosefi@gmail.com).
+For any questions or feedback, please contact amit.yosefi@gmail.com
